@@ -1,5 +1,9 @@
 # 3D Mesh Subdivision and Visualization
 
+<div align="center">
+  <img src="https://github.com/doyoojk/loop_subdivision/blob/main/loopsubdivisiondemo.gif">
+</div>
+
 ## Overview
 This project is an exploration of surface meshes and their modifications through subdivision. Using Processing and Java, the program reads polyhedral models and creates Loop subdivided surfaces. It also demonstrates the "corners" representation by visualizing corner operations such as next, opposite, and swing.
 
