@@ -1,4 +1,3 @@
-// Sample code for starting the subdivision project
 // Author: Jamie Kim
 import java.util.Arrays;
 
